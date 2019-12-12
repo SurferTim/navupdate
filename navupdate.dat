@@ -1,0 +1,15 @@
+
+810 Version - data cycle 2013.10, build 20131334, metadata NavXP810.  Copyright © 2013, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+
+2  15.39444400 -061.40555600    1000  260  25    0.0 DCF  CANEFIELD NDB
+
+3  33.11555600 -007.50666000   1080 11250 200    0.0 SLK  SIDI KHEDIM VOR-DME
+12  33.11555600 -007.50666000   1080 11250 200    0.0 SLK  SIDI KHEDIM VOR-DME
+12  33.35250000 -007.58350000    657 10990  18       0.000 INR  GMMN 35R DME-ILS
+
+2  51.891944 -002.167778     98 331    25         0.0  GST   EGBJ NDB
+4  51.894426 -002.162591     98 10995  25     264.000  IGOS  EGBJ 27  ILS-cat-I
+6  51.894426 -002.162591     98 10995  12  350264.000  IGOS  EGBJ 27  GS
+12  51.894426 -002.162591     98 10995  25      0.000  IGOS  EGBJ 27  DME-ILS
+
+
