@@ -6,5 +6,5 @@ This is for
 DCF (Canefield)
 SLK (Casablanca)
 EGBJ (Gloucestershire)
-
-
+TFFF (Martinique)
+TFFR (Guadeloupe)
