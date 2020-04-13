@@ -10,4 +10,5 @@ TFFF (Martinique)
 TFFR (Guadeloupe)
 LATI (Tirana)
 LOWW (Wein-Schwechat)
+KJFK (Kennedy Intl)
 
