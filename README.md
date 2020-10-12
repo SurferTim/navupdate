@@ -13,4 +13,5 @@ LOWW (Wein-Schwechat)
 KJFK (Kennedy Intl)
 OMDB (Dubai)
 NVVV (Port Vila)
+LZIB (Bratislava)
 
