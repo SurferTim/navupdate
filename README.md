@@ -12,4 +12,5 @@ LATI (Tirana)
 LOWW (Wein-Schwechat)
 KJFK (Kennedy Intl)
 OMDB (Dubai)
+NVVV (Port Vila)
 
